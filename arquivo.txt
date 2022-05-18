@@ -1,3 +1,5 @@
 Aula de git
+
 teste aula de git
+Exercício para compartilharmos o mesmo repositório
 
